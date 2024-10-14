@@ -34,7 +34,7 @@ The data consists of four categories of fruits which are cashew, cempedak, cocon
 * Added L1 regularization  
 * Added L2 regularization  
 * Added Batch normalization
-* Reducing model size
+* Reduced model size
 ## Model Performance
 
 <table >
