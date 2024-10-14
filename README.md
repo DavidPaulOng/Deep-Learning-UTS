@@ -29,7 +29,12 @@ The data consists of four categories of fruits which are cashew, cempedak, cocon
 
 * Image resizing
   The images are resized to be 224 x 224 pixel for model training.
-  
+
+### Modifications
+* Added L1 regularization  
+* Added L2 regularization  
+* Added Batch normalization
+* Reducing model size
 ## Model Performance
 
 <table >
